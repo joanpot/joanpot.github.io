@@ -1,5 +1,5 @@
 ---
-title: Typesetting Math in Texts
+title: OK, so it is already my published blog...
 ---
 
 Basic math
